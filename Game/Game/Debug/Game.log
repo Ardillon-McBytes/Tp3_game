@@ -1,0 +1,134 @@
+﻿  main.cpp
+d:\prog\session 3\prog_structures\tp3\game\game\saisiesecurisee.h(181): warning C4244: 'initialisation' : conversion de 'std::streamoff' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\modifierconsole.h(56): warning C4838: la conversion de 'int' en 'SHORT' requiert une conversion restrictive
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(104): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(112): warning C4018: '<' : incompatibilité signed/unsigned
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(115): warning C4018: '<' : incompatibilité signed/unsigned
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(120): warning C4018: '<' : incompatibilité signed/unsigned
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(123): warning C4018: '<' : incompatibilité signed/unsigned
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(154): warning C4018: '<' : incompatibilité signed/unsigned
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(157): warning C4018: '<' : incompatibilité signed/unsigned
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(196): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(197): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(198): warning C4018: '<' : incompatibilité signed/unsigned
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(240): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(242): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(194): warning C4101: 'randomNbr2' : variable locale non référencée
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(256): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(257): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(300): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(304): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(308): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(314): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(315): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(316): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(317): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(254): warning C4101: 'randomNbr2' : variable locale non référencée
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(368): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(369): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(369): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(371): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(372): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(373): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(374): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(376): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(377): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(378): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(379): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(382): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(383): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(384): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(385): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(334): warning C4390: ';' : une instruction contrôlée a été trouvée vide ; est-ce ce que vous souhaitiez ?
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(336): warning C4390: ';' : une instruction contrôlée a été trouvée vide ; est-ce ce que vous souhaitiez ?
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(326): warning C4101: 'argv' : variable locale non référencée
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(529): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(553): warning C4244: '=' : conversion de 'const float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(554): warning C4244: '=' : conversion de 'const float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(555): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(556): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(619): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(700): warning C4390: ';' : une instruction contrôlée a été trouvée vide ; est-ce ce que vous souhaitiez ?
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(691): warning C4101: 'lvlEnregistrer' : variable locale non référencée
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(747): warning C4101: 'lvlEnregistrer' : variable locale non référencée
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(762): warning C4101: 'scoreMax' : variable locale non référencée
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(761): warning C4101: 'levelMax' : variable locale non référencée
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(811): warning C4101: 'scoreJoueur' : variable locale non référencée
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(828): warning C4244: 'initialisation' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(829): warning C4244: 'initialisation' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(830): warning C4244: 'argument' : conversion de 'float' en 'unsigned int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(866): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(868): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(869): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(870): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(871): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(874): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(875): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(833): warning C4390: ';' : une instruction contrôlée a été trouvée vide ; est-ce ce que vous souhaitiez ?
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(963): warning C4244: 'initialisation' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(964): warning C4244: 'initialisation' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(965): warning C4244: 'argument' : conversion de 'float' en 'unsigned int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1001): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1002): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1006): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(968): warning C4390: ';' : une instruction contrôlée a été trouvée vide ; est-ce ce que vous souhaitiez ?
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1111): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1111): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1112): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1114): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1115): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1116): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1124): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1125): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1126): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1129): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1130): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1130): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1150): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1151): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1153): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1154): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1156): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1157): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1159): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1160): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1162): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1163): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1165): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1166): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1168): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1169): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1171): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1172): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1174): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1175): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1176): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1178): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1179): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1180): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1182): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1183): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1077): warning C4390: ';' : une instruction contrôlée a été trouvée vide ; est-ce ce que vous souhaitiez ?
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(1442): warning C4390: ';' : une instruction contrôlée a été trouvée vide ; est-ce ce que vous souhaitiez ?
+d:\prog\session 3\prog_structures\tp3\game\game\map.hpp(217): warning C4018: '<' : incompatibilité signed/unsigned
+  d:\prog\session 3\prog_structures\tp3\game\game\map.hpp(201): note: pendant la compilation de la fonction membre '<Inconnu>' (classe <Inconnu>)
+  d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(105): note: voir la référence à l'instanciation de la fonction modèle 'void tableau<int>::resize(int,int)' en cours de compilation
+  d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(101): note: voir la référence à l'instanciation de classe modèle 'tableau<int>' en cours de compilation
+d:\prog\session 3\prog_structures\tp3\game\game\map.hpp(223): warning C4018: '<' : incompatibilité signed/unsigned
+d:\prog\session 3\prog_structures\tp3\game\game\map.hpp(225): warning C4018: '<' : incompatibilité signed/unsigned
+d:\prog\session 3\prog_structures\tp3\game\game\map.hpp(234): warning C4018: '<' : incompatibilité signed/unsigned
+d:\prog\session 3\prog_structures\tp3\game\game\map.hpp(307): warning C4018: '<' : incompatibilité signed/unsigned
+  d:\prog\session 3\prog_structures\tp3\game\game\map.hpp(294): note: pendant la compilation de la fonction membre '<Inconnu>' (classe <Inconnu>)
+  d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(167): note: voir la référence à l'instanciation de la fonction modèle 'void tableau<int>::print(std::ostream &) const' en cours de compilation
+d:\prog\session 3\prog_structures\tp3\game\game\map.hpp(310): warning C4018: '<' : incompatibilité signed/unsigned
+d:\prog\session 3\prog_structures\tp3\game\game\map.hpp(323): warning C4309: 'static_cast' : troncation de valeur de constante
+d:\prog\session 3\prog_structures\tp3\game\game\map.hpp(171): warning C4018: '<' : incompatibilité signed/unsigned
+  d:\prog\session 3\prog_structures\tp3\game\game\map.hpp(167): note: pendant la compilation de la fonction membre '<Inconnu>' (classe <Inconnu>)
+  d:\prog\session 3\prog_structures\tp3\game\game\map.hpp(161): note: voir la référence à l'instanciation de la fonction modèle 'void tableau<int>::clear(void)' en cours de compilation
+  d:\prog\session 3\prog_structures\tp3\game\game\map.hpp(77): note: pendant la compilation de la fonction membre '<Inconnu>' (classe <Inconnu>)
+  d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(101): note: voir la référence à l'instanciation de la fonction modèle 'tableau<int>::tableau(void)' en cours de compilation
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(612): warning C4715: 'saisieTexte' : les chemins de contrôle ne retournent pas tous une valeur
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(684): warning C4715: 'saisieTexteCacher' : les chemins de contrôle ne retournent pas tous une valeur
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(523): warning C4715: 'menuLogIn' : les chemins de contrôle ne retournent pas tous une valeur
+d:\prog\session 3\prog_structures\tp3\game\game\main.cpp(958): warning C4715: 'fenetreAvertissement' : les chemins de contrôle ne retournent pas tous une valeur
+  Game.vcxproj -> D:\Prog\Session 3\Prog_Structures\TP3\Game\Debug\Game.exe
